@@ -1,0 +1,9 @@
+[
+  {
+    "name": "unstable",
+    "version": "unstable",
+    "url": "https://gmanal.github.io/cccl/unstable/",
+    "latest": true,
+    "preferred": true
+  }
+]
